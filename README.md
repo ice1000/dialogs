@@ -6,7 +6,10 @@
 在此收藏一些友人的段子<br/>
 不收藏可惜了简直<br/>
 
+### [友情链接：3A收集的段子](https://github.com/sg-first/Doge_Quotations)
+
 ## 人物
 
 + [3A](https://github.com/ice1000/dialogs/blob/master/dialogs/3A.md)
 + [果冻](https://github.com/ice1000/dialogs/blob/master/dialogs/Jelly.md)
++ [千里冰封](https://github.com/ice1000/dialogs/blob/master/dialogs/ice1000.md)
