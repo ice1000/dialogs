@@ -13,3 +13,4 @@
 + [3A](https://github.com/ice1000/dialogs/blob/master/dialogs/3A.md)
 + [果冻](https://github.com/ice1000/dialogs/blob/master/dialogs/Jelly.md)
 + [千里冰封](https://github.com/ice1000/dialogs/blob/master/dialogs/ice1000.md)
++ [MG](https://github.com/ice1000/dialogs/blob/master/dialogs/MG.md)
