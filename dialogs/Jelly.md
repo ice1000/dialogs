@@ -9,6 +9,9 @@
 + 该人类能正确使用C++语言和元火引擎进行游戏开发。
 + 该人类经常认为自己很傻。
 + 该人类层成功勾搭学霸入了编程の坑。
++ 该人类花了一年半载才熟悉C++语言。
++ 该人类擅长忽悠
++ 该人类是Lexington工作室的CEO。
 
 ## 段子
 
@@ -16,6 +19,27 @@
 
 #### 1月
 
+##### 9日
+
+---
+> ![233](https://github.com/ice1000/dialogs/blob/master/raw/Jelly_0x01.png)
+现在这些博客啊 我找fromjson的 十个不同名字的博客有七个内容一样
+
+---
+> 我告诉你个秘密 其实我就属于用这种头像长得也不好看的那种的
+
+---
+> ![Jelly](https://github.com/ice1000/dialogs/blob/master/raw/Jelly_0x01.jpg)补课玩手机 信不信给你装个海马模拟器
+
+---
+> ![Jelly](https://github.com/ice1000/dialogs/blob/master/raw/Jelly_0x01.jpg)补课玩手机 手机不想要了是不是 叫你家长来一趟
+
+---
+> ![Jelly](https://github.com/ice1000/dialogs/blob/master/raw/Jelly_0x01.jpg)
+你还玩手机是不是 想不想学了啊 信不信开除你 (学费不退
+![Jelly](https://github.com/ice1000/dialogs/blob/master/raw/Jelly_0x01.jpg)玩手机你还有理了 我当这么多年老师头一次看见你这种学生
+
+---
 ##### 8日
 
 ---
