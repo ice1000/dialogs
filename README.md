@@ -17,3 +17,4 @@
 + [Miracle](https://github.com/ice1000/dialogs/blob/master/dialogs/Miracle.md)
 + [小菜](https://github.com/ice1000/dialogs/blob/master/dialogs/cai.md)
 + [Timothy](https://github.com/ice1000/dialogs/blob/master/dialogs/Timothy.md)
++ [秋寒](https://github.com/ice1000/dialogs/blob/master/dialogs/fallfreeze.md)
