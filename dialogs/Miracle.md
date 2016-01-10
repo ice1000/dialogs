@@ -23,6 +23,7 @@
   被告：（%（%￥*&&*（&（<br/>
   审判长：等等！你第三行代码的大括号换行了吗？<br/>
   被告：没<br/>
+  审判长：死刑。
 
 ---
 > ![233](https://github.com/ice1000/dialogs/blob/master/raw/cai_0x00.jpg)
@@ -51,7 +52,7 @@
 
 ---
 > 我以前也是单飞Linux<br/>
-但我意识到自己的教徒创意还不够，回win苦心深造，寒假再站
+但我意识到自己的教徒诚意还不够，回win苦心深造，寒假再战
 
 ---
 > 你居然装kylin，药丸药丸![233](https://github.com/ice1000/dialogs/blob/master/raw/Miracle_0x01.png)
