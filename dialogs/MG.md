@@ -1,3 +1,4 @@
+![222](https://github.com/ice1000/dialogs/blob/master/icon/MG.jpg)
 # MG
 
 ## 人物介绍
