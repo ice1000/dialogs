@@ -1,4 +1,5 @@
-# Timothy
+![333](https://github.com/ice1000/dialogs/blob/master/icon/Timothy.jpg)
+# [Timothy](https://github.com/iXinwei)
 
 ## 人物介绍
 

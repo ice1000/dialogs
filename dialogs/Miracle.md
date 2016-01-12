@@ -1,4 +1,5 @@
-# Miracle
+![222](https://github.com/ice1000/dialogs/blob/master/icon/Miracle.jpg)
+# [Miracle](https://github.com/Mireas)
 
 ## 人物介绍
 
@@ -7,6 +8,7 @@
 >+ 该人类是中华人民共和国公民。
 + 该人类能使用汉语表达自己的想法。
 + 该人类忧国忧民，将来或许成为中国领导人。
++ 该人类十分执着社会主义核心价值观。
 
 ## 段子
 

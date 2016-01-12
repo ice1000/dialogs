@@ -1,5 +1,5 @@
-![222]()
-# 奶茶
+![222](https://github.com/ice1000/dialogs/blob/master/icon/milktea.jpg)
+# [奶茶](https://github.com/Tardis07)
 
 ## 人物介绍
 

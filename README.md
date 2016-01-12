@@ -6,6 +6,8 @@
 在此收藏一些友人的段子<br/>
 不收藏可惜了简直<br/>
 
+## 注：人物头像均为QQ上的头像，姓名栏的链接指向该人的github，如果没有链接说明该人未开通github。
+
 ### [友情链接：3A收集的段子](https://github.com/sg-first/Doge_Quotations)
 
 ## 人物
