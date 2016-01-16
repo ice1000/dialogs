@@ -14,15 +14,23 @@
 ##### 16日
 
 ---
-> 
+> ![ddd](https://github.com/ice1000/dialogs/blob/master/raw/SpiderKing_0x04.png)
+对于一个人自己来说，最悲哀的事莫过于你本身是一个好人，却长着一张变态的脸。而对于一个社会来说……
+
 ---
-> 
+> 0.0卧槽连奶茶同学都不认识了你居然是如此无情无义之人
+
 ---
-> 
+> ![ddd](https://github.com/ice1000/dialogs/blob/master/raw/SpiderKing_0x04.png)
+我甘愿做一棵毒草
+
 ---
-> 
+> ![ddd](https://github.com/ice1000/dialogs/blob/master/raw/SpiderKing_0x04.png)
+其实我准备换个司波深雪。
+
 ---
-> ![ddd](https://github.com/ice1000/dialogs/blob/master/raw/SpiderKing_0x03.png)默默泡奶茶。
+> ![ddd](https://github.com/ice1000/dialogs/blob/master/raw/SpiderKing_0x03.png)
+默默泡奶茶。
 
 ---
 > = =我的意思是可以让它把适用范围降低，像相似度低到完全匹配不到的就不用这方法。不过应对未知句式……这个我也没想法。在我有限的知识范围内，样本完全没涉及的话，应该很难做到.
