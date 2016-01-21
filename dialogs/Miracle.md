@@ -17,6 +17,21 @@
 
 #### 1月
 
+##### 21日
+
+---
+> 我一直以为futa是不穿内裤的
+
+---
+> 我真希望每个人都有这个觉悟<br/>
+ ![233](https://github.com/ice1000/dialogs/blob/master/raw/Jelly_0x01.png)
+可是还是有很多人期待着蓝图拯救世界@【C++】Fyd_H 
+
+---
+> ![233](https://github.com/ice1000/dialogs/blob/master/raw/Jelly_0x01.png)
+算了，你思想太落后，我不能将社会主义在你面前套用
+
+---
 ##### 19日
 
 ---
