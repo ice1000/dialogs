@@ -24,6 +24,26 @@ cai![233](https://github.com/ice1000/dialogs/blob/master/icon/cai.jpg)
 
 #### 1月
 
+##### 21日
+
+---
+> ![ddd](https://github.com/ice1000/dialogs/blob/master/raw/cai_0x01.jpg)
+卧槽 老司机看见了会不会弄死我
+
+---
+> 其实<br/>
+你还没来群里的时候<br/>
+老司机说他女神要加进来学编程<br/>
+然后我们集体要求他爆照<br/>
+ ![ddd](https://github.com/ice1000/dialogs/blob/master/raw/cai_0x01.jpg)
+你猜后来怎么着<br/>
+![ddd](https://github.com/ice1000/dialogs/blob/master/raw/cai_0x01.jpg)
+他说他总有一天要把你追到手<br/>
+ ![ddd](https://github.com/ice1000/dialogs/blob/master/raw/cai_0x01.jpg)
+然后他说你进来之后我们要给他面子<br/>
+然后你懂得
+
+---
 ##### 19日
 
 ---
