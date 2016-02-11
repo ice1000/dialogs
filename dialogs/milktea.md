@@ -1,15 +1,17 @@
-![222](https://github.com/ice1000/dialogs/blob/master/icon/milktea.jpg)
+![222](../icon/milktea.jpg)
 # [奶茶](https://github.com/Tardis07)
+# [奶茶的博客](http://milktea.info/%e5%85%ac%e5%91%8a%e6%9d%bf/vps-service)
 
 ## 人物介绍
 
 > 使用Linux的妹子。为数不多的程序媛。
 
 >+ 该人类是中华人民共和国公民
-+ 该人类曾为3A追求。
++ 该人类为3A追求。
 + 该人类喜爱奶茶。
 + 该人类不知道以后是学医还是学信息。。
 + 该人类使用的操作系统没有GUI
++ 该人类在B站有直播间。
 
 ## 段子
 

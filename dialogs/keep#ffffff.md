@@ -1,4 +1,4 @@
-![222](https://github.com/ice1000/dialogs/blob/master/icon/keep%23ffffff.jpg)
+![222](../icon/keep%23ffffff.jpg)
 # 留白
 
 ## 人物介绍

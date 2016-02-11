@@ -1,4 +1,4 @@
-![333](https://github.com/ice1000/dialogs/blob/master/icon/Jelly.jpg)
+![333](../icon/Jelly.jpg)
 # [果冻](https://github.com/Fydui)
 
 ## 人物介绍
@@ -204,34 +204,34 @@
 ##### 9日
 
 ---
-> ![233](https://github.com/ice1000/dialogs/blob/master/raw/Jelly_0x00.jpg)这不一定 得看啥了 晓龙800 主频2.3hz 四核 就看主频和核心就能能吊打现在一堆学校微机室的电脑了吧 然而我手机解压个500mb的压缩包 需要十五分钟 电脑呢?多说多说五分钟
+> ![233](../raw/Jelly_0x00.jpg)这不一定 得看啥了 晓龙800 主频2.3hz 四核 就看主频和核心就能能吊打现在一堆学校微机室的电脑了吧 然而我手机解压个500mb的压缩包 需要十五分钟 电脑呢?多说多说五分钟
 
 ---
 > 这个 这程序是离线的? 为啥不在服务器上训练好模型 然后手机端就是个 就是个 就是个壳子一切信息交给服务器 手机本地的可以用SQLlite 现在聊天机器人都这样吧 吧?
 
 ---
-> ![233](https://github.com/ice1000/dialogs/blob/master/raw/Jelly_0x01.png)
+> ![233](../raw/Jelly_0x01.png)
 现在这些博客啊 我找fromjson的 十个不同名字的博客有七个内容一样
 
 ---
 > 我告诉你个秘密 其实我就属于用这种头像长得也不好看的那种的
 
 ---
-> ![Jelly](https://github.com/ice1000/dialogs/blob/master/raw/Jelly_0x01.jpg)补课玩手机 信不信给你装个海马模拟器
+> ![Jelly](../raw/Jelly_0x01.jpg)补课玩手机 信不信给你装个海马模拟器
 
 ---
-> ![Jelly](https://github.com/ice1000/dialogs/blob/master/raw/Jelly_0x01.jpg)补课玩手机 手机不想要了是不是 叫你家长来一趟
+> ![Jelly](../raw/Jelly_0x01.jpg)补课玩手机 手机不想要了是不是 叫你家长来一趟
 
 ---
-> ![Jelly](https://github.com/ice1000/dialogs/blob/master/raw/Jelly_0x01.jpg)
+> ![Jelly](../raw/Jelly_0x01.jpg)
 你还玩手机是不是 想不想学了啊 信不信开除你 (学费不退
-![Jelly](https://github.com/ice1000/dialogs/blob/master/raw/Jelly_0x01.jpg)玩手机你还有理了 我当这么多年老师头一次看见你这种学生
+![Jelly](../raw/Jelly_0x01.jpg)玩手机你还有理了 我当这么多年老师头一次看见你这种学生
 
 ---
 ##### 8日
 
 ---
->![Jelly](https://github.com/ice1000/dialogs/blob/master/raw/3A_0x01.jpg)
+>![Jelly](../raw/3A_0x01.jpg)
 > 这个倒是 装逼的时候总会有人不知好歹的来打扰你<br/> 
 比如我今天安利学霸搞cs的时候就有一个平时出口成脏以为自己啥都懂其实满嘴错误言论(就像我一样) 但是并没有什么能耐的人来打扰我和学霸<br/>
 大概就是不想让学霸搞计算机至于目的<br/>
@@ -254,6 +254,6 @@
 然后通宵撸代码<br/>
 然后第二天睡个半天<br/>
 起来去市中心装逼<br/>
-然后我们可以集体去沈阳故宫装逼<br/>![1](https://github.com/ice1000/dialogs/blob/master/raw/Jelly_0x01.jpg)
+然后我们可以集体去沈阳故宫装逼<br/>![1](../raw/Jelly_0x01.jpg)
 
 ---

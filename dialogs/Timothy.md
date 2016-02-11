@@ -1,4 +1,4 @@
-![333](https://github.com/ice1000/dialogs/blob/master/icon/Timothy.jpg)
+![333](../icon/Timothy.jpg)
 # [Timothy](https://github.com/iXinwei)
 
 ## 人物介绍
@@ -12,7 +12,7 @@
 + 该人类可以熟练使用小学英语(PEP)三年级上册3单元单词:pig,cat,tiger,elephant......
 + 该人类给国家帅哥平均身高拖了后腿。
 + 该人类是一个逗比。
-
++ 该人类是Visual Studio信徒。
 
 ## 段子
 
@@ -252,7 +252,7 @@ bug未调机已宕<br/>
 
 ---
 > 我主攻C#<br/>
-也就是说C#是受咯![233](https://github.com/ice1000/dialogs/blob/master/raw/Timothy_0x00.png)
+也就是说C#是受咯![233](../raw/Timothy_0x00.png)
 
 ---
 > 继承 多态 封装 密封 公有 私有 虚拟 抽象 派生 接口 分布 静态 迭代 指针 IO流 异常 泛型

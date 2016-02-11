@@ -1,4 +1,4 @@
-![222](https://github.com/ice1000/dialogs/blob/master/icon/Miracle.jpg)
+![222](../icon/Miracle.jpg)
 # [Miracle](https://github.com/Mireas)
 
 ## 人物介绍
@@ -30,11 +30,11 @@
 
 ---
 > 我真希望每个人都有这个觉悟<br/>
- ![233](https://github.com/ice1000/dialogs/blob/master/raw/Jelly_0x01.png)
+ ![233](../raw/Jelly_0x01.png)
 可是还是有很多人期待着蓝图拯救世界@【C++】Fyd_H 
 
 ---
-> ![233](https://github.com/ice1000/dialogs/blob/master/raw/Jelly_0x01.png)
+> ![233](../raw/Jelly_0x01.png)
 算了，你思想太落后，我不能将社会主义在你面前套用
 
 ---
@@ -110,7 +110,7 @@
 
 ---
 > 你居然不喜欢他！你知道他多帅吗！唱歌多好听吗！<br/>
-可我还是在黑他![ddd](https://github.com/ice1000/dialogs/blob/master/raw/Miracle_0x02.jpg)
+可我还是在黑他![ddd](../raw/Miracle_0x02.jpg)
 
 ---
 > 原谅我一生放荡不羁爱自由，可也怕有一天会变弯
@@ -265,7 +265,7 @@
   审判长：死刑。
 
 ---
-> ![233](https://github.com/ice1000/dialogs/blob/master/raw/cai_0x00.jpg)
+> ![233](../raw/cai_0x00.jpg)
 共产主义只是我信仰的一部分，我还是信仰我们伟大的马克思主义，我无时无刻都在督促着自己执行着社会主义核心价值观
 
 ---
@@ -278,7 +278,7 @@
   啊~信仰，我的信仰，在夜空中照耀着我，燃烧着我被泉州19°的寒风吹冷的心~<br/>
   
 ---
-> ![233](https://github.com/ice1000/dialogs/blob/master/raw/cai_0x00.jpg)看老子一记儿童主义团融合共产主义社会主义核心价值观的破菊之石，谁趴谁知道
+> ![233](../raw/cai_0x00.jpg)看老子一记儿童主义团融合共产主义社会主义核心价值观的破菊之石，谁趴谁知道
 
 ---
 ##### 9日
@@ -294,7 +294,7 @@
 但我意识到自己的教徒诚意还不够，回win苦心深造，寒假再战
 
 ---
-> 你居然装kylin，药丸药丸![233](https://github.com/ice1000/dialogs/blob/master/raw/Miracle_0x01.png)
+> 你居然装kylin，药丸药丸![233](../raw/Miracle_0x01.png)
 
 ---
 > 有这谈人生找方向的功夫多打几泡，为男公关生涯一步一步定下基础

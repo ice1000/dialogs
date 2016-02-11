@@ -1,4 +1,4 @@
-![2323](https://github.com/ice1000/dialogs/blob/master/icon/fallfreeze.jpg)
+![2323](../icon/fallfreeze.jpg)
 # 秋寒
 
 ## 人物介绍

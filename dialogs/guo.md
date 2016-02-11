@@ -1,4 +1,4 @@
-![999](https://github.com/ice1000/dialogs/blob/master/icon/guo.jpg)<br/>
+![999](../icon/guo.jpg)<br/>
 # [果果](https://github.com/imguoguo)
 
 ## 人物介绍
@@ -29,7 +29,7 @@
 > 神**作业去死吧<br/>
 > 你**让我从早上八点半做到十一点半又从两点半做到五点半还从六点半做到八点半还不让休息**几个意思啊<br/>
 > 神经病啊<br/>
-> [fuck](https://github.com/ice1000/dialogs/blob/master/raw/guoguo_0x01.jpg)
+> ![fuck](../raw/guoguo_0x01.jpg)
 
 ---
 ##### 21日
@@ -49,6 +49,6 @@
 ##### 24日
 
 ---
-> LOL是啥？我只听说过LOL(i)[fuck](https://github.com/ice1000/dialogs/blob/master/raw/ice1000_0x01.jpg)
+> LOL是啥？我只听说过LOL(i)![fuck](../raw/ice1000_0x01.jpg)
 
 ---
