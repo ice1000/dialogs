@@ -1,18 +1,18 @@
 ![222](../icon/milktea.jpg)
 # [奶茶](https://github.com/Tardis07)
-# [奶茶的博客](http://milktea.info/%e5%85%ac%e5%91%8a%e6%9d%bf/vps-service)
+# [奶茶的博客](http://milktea.info/)
 
 ## 人物介绍
 
 > Linux运维师，高三的妹子。为数不多的程序媛。<br\>
-还是字幕组成员(名字记不得了), Gallifreyan推广者。
+还是[Vmoe字幕组](http://vmoe.info)成员, Gallifreyan推广者。
 
 >+ 该人类是中华人民共和国公民
 + 该人类为3A追求。
 + 该人类喜爱奶茶。
 + 该人类不知道以后是学医还是学信息。。
 + 该人类使用的操作系统没有GUI
-+ 该人类在B站有直播间。
++ 该人类在有[B站直播间](http://live.bilibili.com/69791)。
 
 ## 段子
 
