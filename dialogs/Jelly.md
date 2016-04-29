@@ -1,4 +1,4 @@
-![333](../icon/Jelly.jpg)
+![](../icon/Jelly.jpg)
 # [果冻](https://github.com/Fydui)
 
 ## 人物介绍

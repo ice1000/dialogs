@@ -1,4 +1,4 @@
-![222](../icon/milktea.jpg)
+![](../icon/milktea.jpg)
 # [奶茶](https://github.com/Tardis07)
 # [奶茶的博客](http://milktea.info/)
 
