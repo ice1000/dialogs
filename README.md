@@ -25,7 +25,7 @@
 + [果果](./dialogs/guo.md)
 + [无](./dialogs/no.md)
 + [逝水追风](./dialogs/lostwind.md)
-+ [逝水追风](./dialogs/mmmm.md)
++ [毛顺宇](./dialogs/mmmm.md)
 + [搬运：Nicole](https://github.com/sg-first/Doge_Quotations/blob/master/Nicole_Quotations.md)
 + [本家：SpiderKing](./dialogs/SpiderKing.md)
 + [搬运：SpiderKing](https://github.com/sg-first/Doge_Quotations/blob/master/spiderking_wiki.md)
