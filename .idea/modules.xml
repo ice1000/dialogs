@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/dialogs/dialogs.iml" filepath="$PROJECT_DIR$/dialogs/dialogs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/icon/icon.iml" filepath="$PROJECT_DIR$/icon/icon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/语录文件夹.iml" filepath="$PROJECT_DIR$/语录文件夹.iml" />
     </modules>
   </component>
 </project>
