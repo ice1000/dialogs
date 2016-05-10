@@ -1,13 +1,10 @@
 # dialogs
-这是一个拿来收集段子的地方。<br>
-编程社区里有太多牛逼的段子手了<br/>
-在此收藏一些友人的段子<br/>
-不收藏可惜了简直<br/>
 
-为了记录我们一群~~没节操的神经病~~Coder的中学岁月。<br/>
-其实也有一些成年人。。。。:joy:
+歪果仁勿入，危险<br/>
+这里是ProgramLeague成员的最高待遇の供奉之所。<br/>
+那就是语录。
 
-### [友情链接：3A收集的段子](https://github.com/sg-first/Doge_Quotations)
+### [友情链接：3A收集的语录](https://github.com/DogeStudio/Doge_Quotations)
 
 # 人物
 
