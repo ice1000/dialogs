@@ -1,4 +1,4 @@
-![](./icon/mmmm.jpg)
+![](../icon/mmmm.jpg)
 # mmmm
 
 ## 人物介绍
