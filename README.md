@@ -26,3 +26,6 @@
 + [搬运：Nicole](https://github.com/sg-first/Doge_Quotations/blob/master/Nicole_Quotations.md)
 + [本家：SpiderKing](./dialogs/SpiderKing.md)
 + [搬运：SpiderKing](https://github.com/sg-first/Doge_Quotations/blob/master/spiderking_wiki.md)
+
+## very naive
+[还没想好名字的科幻](./dialogs/novel/readme.md)
