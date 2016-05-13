@@ -28,4 +28,4 @@
 + [搬运：SpiderKing](https://github.com/sg-first/Doge_Quotations/blob/master/spiderking_wiki.md)
 
 ## very naive
-[还没想好名字的科幻小说](./dialogs/novel/readme.md)，看了之后别打我，我是特斯拉厨。。。
+[科幻小说——时间之晶](./dialogs/novel/readme.md)，看了之后别打我，我是特斯拉厨。。。
