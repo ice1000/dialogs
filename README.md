@@ -26,6 +26,3 @@
 + [搬运：Nicole](https://github.com/sg-first/Doge_Quotations/blob/master/Nicole_Quotations.md)
 + [本家：SpiderKing](./dialogs/SpiderKing.md)
 + [搬运：SpiderKing](https://github.com/sg-first/Doge_Quotations/blob/master/spiderking_wiki.md)
-
-## very naive
-[科幻小说——时间之晶](./dialogs/novel/readme.md)，看了之后别打我，我是特斯拉厨。。。
