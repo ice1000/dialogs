@@ -26,3 +26,4 @@
 + [搬运：Nicole](https://github.com/sg-first/Doge_Quotations/blob/master/Nicole_Quotations.md)
 + [本家：SpiderKing](./dialogs/SpiderKing.md)
 + [搬运：SpiderKing](https://github.com/sg-first/Doge_Quotations/blob/master/spiderking_wiki.md)
++ [其它段子](./dialogs/free.md)
