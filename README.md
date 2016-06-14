@@ -2,7 +2,7 @@
 
 歪果仁勿入，危险<br/>
 这里是ProgramLeague成员的最高待遇の供奉之所。<br/>
-那就是语录，最近还有伟哥新增的活动。
+那就是语录，最近还有伟哥新增的人物事件。
 
 ### [友情链接：3A收集的语录](https://github.com/DogeStudio/Doge_Quotations)
 
