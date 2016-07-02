@@ -51,10 +51,17 @@
 
 #### 6月
 > **中考**即将到来。
+> **中考**结束。
 
 ## 段子
 
 ### 2016年
+
+#### 7月
+
+##### 2日
+---
+> Program League As Stupid Timothy Is Coding<br />PLASTiC的全称~
 
 #### 5月
 
