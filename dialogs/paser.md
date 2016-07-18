@@ -1,4 +1,4 @@
-![](../icon/3A.jpg)
+![](../icon/paser.jpg)
 
 # [3A](https://github.com/sg-first)
 ## 人物介绍
