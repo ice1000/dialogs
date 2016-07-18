@@ -100,8 +100,8 @@
         <entry file="file://$PROJECT_DIR$/dialogs/paser.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+              <first_editor relative-caret-position="100">
+                <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -442,7 +442,7 @@
       <option name="presentableId" value="Default" />
       <updated>1468817985197</updated>
       <workItem from="1468817990167" duration="2054000" />
-      <workItem from="1468836945944" duration="1037000" />
+      <workItem from="1468836945944" duration="1091000" />
     </task>
     <task id="LOCAL-00001" summary="啊~累死啦~小轩姐姐你的排版好像还有点问题哟。 @yooorange 我是妹妹">
       <created>1468820655806</created>
@@ -458,11 +458,18 @@
       <option name="project" value="LOCAL" />
       <updated>1468837940730</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="23333~">
+      <created>1468837986442</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1468837986442</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3091000" />
+    <option name="totallyTimeSpent" value="3145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -682,8 +689,8 @@
     <entry file="file://$PROJECT_DIR$/dialogs/paser.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="17" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+          <first_editor relative-caret-position="100">
+            <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />

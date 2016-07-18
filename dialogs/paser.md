@@ -1,6 +1,6 @@
 ![](../icon/paser.jpg)
 
-# [3A](https://github.com/sg-first)
+# [萌哥](https://github.com/APTXybr)
 ## 人物介绍
 
 > 该人为塑料组一大美人
