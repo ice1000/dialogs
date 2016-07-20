@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f1b23656-0fa7-47e5-ad4d-f1e988928348" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dialogs/3A.md" afterPath="$PROJECT_DIR$/dialogs/3A.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dialogs/Cecilia.md" afterPath="$PROJECT_DIR$/dialogs/Cecilia.md" />
     </list>
     <ignored path="语录文件夹.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -52,12 +52,28 @@
                   </provider>
                 </entry>
               </file>
-              <file leaf-file-name="milktea.md" pinned="false" current-in-tab="true">
+              <file leaf-file-name="milktea.md" pinned="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/dialogs/milktea.md">
                   <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
                     <state split_layout="FIRST">
-                      <first_editor relative-caret-position="144">
-                        <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+                      <first_editor relative-caret-position="94">
+                        <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+                        <folding />
+                      </first_editor>
+                      <second_editor />
+                    </state>
+                  </provider>
+                  <provider editor-type-id="MarkdownFxPreviewEditor">
+                    <state />
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="Cecilia.md" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/dialogs/Cecilia.md">
+                  <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+                    <state split_layout="FIRST">
+                      <first_editor relative-caret-position="219">
+                        <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
                         <folding />
                       </first_editor>
                       <second_editor />
@@ -199,7 +215,6 @@
       <list>
         <option value="$PROJECT_DIR$/dialogs/Timothy.md" />
         <option value="$PROJECT_DIR$/dialogs/cai.md" />
-        <option value="$PROJECT_DIR$/dialogs/Cecilia.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/dialogs/paser.md" />
         <option value="$PROJECT_DIR$/dialogs/ice1000.md" />
@@ -208,6 +223,7 @@
         <option value="$PROJECT_DIR$/dialogs/milktea.md" />
         <option value="$PROJECT_DIR$/dialogs/Eldath.md" />
         <option value="$PROJECT_DIR$/dialogs/3A.md" />
+        <option value="$PROJECT_DIR$/dialogs/Cecilia.md" />
       </list>
     </option>
   </component>
@@ -532,7 +548,7 @@
       <workItem from="1468922540720" duration="113000" />
       <workItem from="1468924139180" duration="385000" />
       <workItem from="1468989269747" duration="124000" />
-      <workItem from="1469014781099" duration="160000" />
+      <workItem from="1469014781099" duration="719000" />
     </task>
     <task id="LOCAL-00001" summary="啊~累死啦~小轩姐姐你的排版好像还有点问题哟。 @yooorange 我是妹妹">
       <created>1468820655806</created>
@@ -611,11 +627,18 @@
       <option name="project" value="LOCAL" />
       <updated>1468989277699</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="fuck">
+      <created>1469014965582</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1469014965582</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6676000" />
+    <option name="totallyTimeSpent" value="7235000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -661,7 +684,8 @@
     <MESSAGE value="23333~" />
     <MESSAGE value="233" />
     <MESSAGE value="~" />
-    <option name="LAST_COMMIT_MESSAGE" value="~" />
+    <MESSAGE value="fuck" />
+    <option name="LAST_COMMIT_MESSAGE" value="fuck" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1175,19 +1199,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dialogs/Cecilia.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="2275">
-            <caret line="103" column="0" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dialogs/Timothy.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1270,20 +1281,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dialogs/milktea.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="144">
-            <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dialogs/free.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1327,6 +1324,42 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="661">
             <caret line="52" column="25" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dialogs/dialogs.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dialogs/milktea.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="94">
+            <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dialogs/Cecilia.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="219">
+            <caret line="19" column="3" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
